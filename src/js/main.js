@@ -46,7 +46,7 @@ requirejs.config(
                 }
         );
 
-        require(['ojs/ojcore', 'knockout', 'jquery', 'appController', 'ojs/ojknockout'],
+        require(['ojs/ojcore', 'knockout', 'jquery', 'appController', 'ojs/ojknockout','ojs/ojmodule'],
                 function (oj, ko, $, app) {
                     $(function () {
                         // Bind your ViewModel for the content of the whole page body.
