@@ -6,11 +6,11 @@
 ## Requirements
 
 - NetBeans  8.1 (HTML/JavaScript Bundle)
-- Any IDE can do but you need to install Oracle Jet packages, please follow the instructions on the '[Getting Started] (http://www.oracle.com/webfolder/technetwork/jet/globalGetStarted.html)' page
+- Any IDE can do but you need to install Oracle Jet packages, please follow the instructions on the [Getting Started](http://www.oracle.com/webfolder/technetwork/jet/globalGetStarted.html) page
 
 ## How to
 
-Please go to the Wiki of this repository to see the steps to follow and step by step instructions.
+Please go to the [Wiki](https://github.com/annie60/OjetTutorial/wiki) of this repository to see the instructions to follow step by step.
 
 ## Help / Resources Links
 
